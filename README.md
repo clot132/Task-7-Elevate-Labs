@@ -1,7 +1,4 @@
 # Task-7-Elevate-Labs
-Certainly! Here's the **accurately formatted Task 7 report** for submission or documentation:
-
----
 
 ## ✅ **Task 7: Identify and Remove Suspicious Browser Extensions**
 
